@@ -5,4 +5,10 @@ public class Addition {
 
         return result;
     }
+
+    public double addThreeNums(double num1, double num2, double num3){
+        double result = num1 + num2 + num3;
+
+        return result;
+    }
 }
